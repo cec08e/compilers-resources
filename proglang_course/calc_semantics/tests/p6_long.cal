@@ -1,0 +1,9 @@
+program xyz is 
+begin
+  var alpha,beta2,counter56;
+  alpha = 2;
+  beta2 = 3;
+  counter56 = (-alpha + beta2) * 3 div 2;
+  print counter56;
+  print  -20+10
+end

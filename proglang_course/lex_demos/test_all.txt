@@ -1,0 +1,5 @@
+my_int1 = 1
+my_int2 = 3 + my_int1
+
+Myreal1 = -3.4 - 2.0
+Myreal2 = Myreal1/-2.5
